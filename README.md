@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Rungpilai! 👋  
 
-<!--
-**Rungpilai/Rungpilai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Recent Graduate**  
+I recently graduated from **Chulalongkorn University**, where I majored in **Language and Information Technology** and minored in **Japanese**.  
 
-Here are some ideas to get you started:
+💡 **UX/UI Designer**  
+I’ve worked on several **UX research** and **UI design** projects, focusing on creating user-friendly and effective digital experiences.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Aspiring Front-End Developer**  
+Currently, I’m expanding my skills in front-end development, combining my design background with coding to build interactive and responsive web apps.  
+
+## 📌 Current Focus  
+- Focusing on merging my UX/UI knowledge with front-end development to create engaging, user-centered web apps.
+- Continuing to learn and grow in web development by contributing to **open-source projects** and collaborating with others in the tech community.   
+
+## 📫 Let’s Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rungpilaipatpai)  
+[![Behance](https://img.shields.io/badge/Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/rungpilaip)  
